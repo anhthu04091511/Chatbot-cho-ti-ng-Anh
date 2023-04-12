@@ -1,8 +1,8 @@
 # Chatbot-for-English
-Chatbot là một chương trình máy tính được thiết kế để tương tác với con người thông qua các cuộc trò chuyện. Chatbot thường được dùng để trả lời câu hỏi, giải quyết các vấn đề đơn giản hoặc cung cấp thông tin cho người dùng. Chatbot có thể được tích hợp trong các ứng dụng hoặc trang web, giúp tăng cường khả năng tương tác và cung cấp dịch vụ cho người dùng. Nhiều chatbot sử dụng trí tuệ nhân tạo để phân tích và hiểu các yêu cầu của người dùng và đưa ra câu trả lời phù hợp. Chatbot được sử dụng rộng rãi trong nhiều lĩnh vực như bán lẻ, dịch vụ khách hàng, y tế, tài chính và giáo dục.
-Ở đây chúng em đang ứng dụng chatbot vào lĩnh vực y tế. Tác dụng của chatbot trong lĩnh vực y tế: Chatbot có thể được sử dụng trong y tế để cung cấp thông tin, hỗ trợ chẩn đoán, giám sát bệnh tật và cung cấp dịch vụ chăm sóc sức khỏe. Một số tác dụng của chatbot trong y tế bao gồm:
-Cung cấp thông tin sức khỏe: Chatbot có thể cung cấp thông tin về bệnh tật, thuốc và chế độ dinh dưỡng cho người dùng. Người dùng có thể trò chuyện với chatbot để tìm kiếm thông tin về bệnh tật cụ thể hoặc các câu hỏi liên quan đến sức khỏe của mình.
-Hỗ trợ chẩn đoán: Chatbot có thể giúp phát hiện triệu chứng bệnh và cung cấp lời khuyên cho người dùng. Chatbot có thể đưa ra các câu hỏi liên quan đến triệu chứng và đưa ra các khuyến nghị về việc thăm khám và chẩn đoán.
-Giám sát bệnh tật: Chatbot có thể giúp theo dõi bệnh tình của người dùng, cập nhật thông tin về tình trạng sức khỏe và nhắc nhở người dùng về việc uống thuốc hoặc đến thăm bác sĩ định kỳ.
-Cung cấp dịch vụ chăm sóc sức khỏe: Chatbot có thể giúp người dùng đặt lịch hẹn với bác sĩ hoặc cung cấp dịch vụ khám bệnh trực tuyến. Chatbot có thể giúp đưa ra các lời khuyên liên quan đến chế độ ăn uống, tập thể dục và các hoạt động khác để giữ gìn sức khỏe. p
-Tổng kết lại chatbot có thể giúp cải thiện sức khỏe và giúp người dùng tiếp cận các dịch vụ y tế một cách dễ dàng và thuận tiện hơn.
+- Data:
+Link dữ liệu: https://github.com/LasseRegin/medical-question-answer-data
+Tập dữ liệu medical-question-answer-data trên GitHub là một tập dữ liệu chứa các cặp câu hỏi và câu trả lời trong lĩnh vực y tế. Tập dữ liệu được đóng gói dưới dạng tệp JSON: (Có 4 file json nhưng chỉ xài 1 file webmdQAs.json với 23437 dòng dữ liệu)
+"answer": Nội dung câu trả lời
+“question”: Nội dung câu hỏi 
+“url” : Đường dẫn link trả lời câu hỏi ( đường dẫn đã ngừng hoạt động)
+“tags”: Nhãn để có thể tìm kiếm và phân loại
