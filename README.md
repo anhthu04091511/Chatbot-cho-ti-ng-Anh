@@ -4,3 +4,9 @@
 Dữ liệu có 2 cột:  
 - question là câu hỏi của bệnh nhân
 - answer là câu trả lời của bác sĩ
+## Code
+Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho bài toán Chatbot:  
+- LSTM
+- LSTM + Attention
+- BERT
+- GPT
