@@ -17,3 +17,5 @@ Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho 
 <img src='img/loss all.PNG'>
 - Bảng đánh giá các model
 <img src='img/time_train, time_test, blue_score.PNG'>
+- Demo
+<img src='img/demo.PNG'>
