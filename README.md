@@ -1,15 +1,19 @@
 # Chatbot-for-English
 ## Dataset
-Đây là bộ dữ liệu những câu hỏi đáp giữa bệnh nhân và bác sĩ thu thập trên các trang web  
-Dữ liệu có 2 cột:  
-- question là câu hỏi của bệnh nhân
-- answer là câu trả lời của bác sĩ
+Link dữ liệu: https://github.com/LasseRegin/medical-question-answer-data  
+Tập dữ liệu medical-question-answer-data trên GitHub là một tập dữ liệu chứa các cặp câu hỏi và câu trả lời trong lĩnh vực y tế. Tập dữ liệu được đóng gói dưới dạng tệp JSON: (Có 4 file json nhưng chỉ xài 1 file webmdQAs.json với 23437 dòng dữ liệu)  
+- "answer": Nội dung câu trả lời
+- “question”: Nội dung câu hỏi 
+- “url” : Đường dẫn link trả lời câu hỏi ( đường dẫn đã ngừng hoạt động)
+- “tags”: Nhãn để có thể tìm kiếm và phân loại
 ## Code
 Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho bài toán Chatbot:  
 - LSTM
 - LSTM + Attention
 - BERT
 - GPT
+## Link pre-trained
+https://drive.google.com/drive/folders/1pCmzuytaGEqUaCzC_HRJr6GIc8SnKijk?usp=sharing
 ## Evaluation
 - Biểu đồ Loss với 100 epochs
 <img src='img/loss 100.PNG'>
