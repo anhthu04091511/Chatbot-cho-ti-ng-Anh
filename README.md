@@ -15,11 +15,7 @@ Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho 
 ## Link pre-trained
 https://drive.google.com/drive/folders/1pCmzuytaGEqUaCzC_HRJr6GIc8SnKijk?usp=sharing
 ## Evaluation
-- Biểu đồ Loss với 100 epochs
-<img src='img/loss 100.PNG'>
-- Biểu đồ Loss cho tất cả các model
-<img src='img/loss all.PNG'>
-- Bảng đánh giá các model
-<img src='img/time_train, time_test, blue_score.PNG'>
-- Demo
-<img src='img/demo.PNG'>
+- Biểu đồ Loss với 100 epochs  <br><img src='img/loss 100.PNG'>
+- Biểu đồ Loss cho tất cả các model  <br><img src='img/loss all.PNG'>
+- Bảng đánh giá các model  <br><img src='img/time_train, time_test, blue_score.PNG'>
+- Demo  <br><img src='img/demo.PNG'>
